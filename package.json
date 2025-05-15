@@ -4,9 +4,7 @@
   "displayName": "Command Manager",
   "unity": "2022.1",
   "dependencies": {
-    "com.unity.test-framework": "1.1.33",
-    "com.unity.ext.nunit": "1.0.6",
-    "com.tnrd.nsubstitute": "x.x.x" 
+    "com.unity.test-framework": "1.1.33"
  },
   "author": {
     "name": "Batuhan Yigit"
